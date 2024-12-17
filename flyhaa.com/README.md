@@ -3,7 +3,6 @@
 ## Documents Needed
 1. **Passport**
    - Valid for 3+ years from program start
-   - Copy required
 
 2. **Financial Verification**
    - English bank statement
