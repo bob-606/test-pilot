@@ -6,5 +6,6 @@
 - https://www.nayak.aero/technical-training/
 - https://ifa-industries.com/amt-school/
 - https://www.aeropole.fi/mro/
+- https://varia.vantaa.fi/en/node/2399
 - https://www.winnova.fi/koulutustarjonta/lentokonetekniikka/ (not feasible because of acquired university degree)
 - https://redu.fi/fi
