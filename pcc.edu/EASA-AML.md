@@ -23,3 +23,10 @@
 - Category B1: Mechanical Systems Technician
 - Category B2: Avionics Systems Technician
 - Category B3: Piston-engine aircraft below 2000kg
+
+## Training Sites
+- https://www.nayak.aero/technical-training/
+- https://ifa-industries.com/amt-school/
+- https://www.aeropole.fi/mro/
+- https://www.winnova.fi/koulutustarjonta/lentokonetekniikka/ (not feasible because of acquired university degree)
+- https://redu.fi/fi
