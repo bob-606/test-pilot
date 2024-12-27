@@ -1,33 +1,64 @@
-If a candidate has only the examination certificates from a Part-147 training organization but did not complete the full training program, the requirements for obtaining a Part-66 licence in Finland can be more stringent. Here’s how this situation typically breaks down:
+# Part-66 Licence Requirements for Candidates with Exam Certificates and Certificates of Recognition (CoR)
 
-### Requirements for Candidates with Only Examination Certificates
+In Finland, candidates holding both **exam certificates** and **Certificates of Recognition (CoR)** from a Part-147 organization are in a favorable position to apply for a Part-66 licence. Below are the detailed requirements and process.
 
-1. **Age Requirement**:
-   - The candidate must be at least **18 years old**.
+---
 
-2. **Training and Examinations**:
-   - While having examination certificates from a Part-147 organization demonstrates knowledge, candidates typically must also have completed the corresponding **basic training course** to qualify for a Part-66 licence.
-   - If the candidate has only the exam certificates and did not undergo the full training, they may need to complete an approved basic training course to fulfill the training requirement.
+## Requirements for Candidates with Exam Certificates and CoR
 
-3. **Experience Requirements**:
-   - Regardless of whether the candidate has completed training, they still need to meet the experience requirements:
-     - For **Category A or B** licences: 
-       - At least **12 months of relevant civil aircraft maintenance experience**.
-       - This experience must be within the **10 years preceding the application**, including at least **6 months of recent maintenance experience** during the year before applying.
-     - For a **Category C licence**: 
-       - The candidate must have at least **three years of civil aircraft maintenance experience**.
+### 1. **Age Requirement**
+- The candidate must be at least **18 years old**.
 
-4. **Application Process**:
-   - The candidate should gather all necessary documentation, including:
-     - Examination certificates from the Part-147 organization.
-     - Proof of practical maintenance experience (logbook).
-     - Any additional documentation as required by Traficom.
-   - Submit an application to Traficom, ensuring that all requirements are met.
+---
 
-5. **Medical Requirements**:
-   - There are no specific medical requirements mandated by EU legislation for Part-66 licence applicants.
+### 2. **Training and Certificates**
+- **Certificates of Recognition (CoR):**
+  - CoRs from a Part-147 organization certify that the candidate has successfully completed the required basic training and examinations.
+  - These certificates fully satisfy the theoretical knowledge and training requirements for the corresponding Part-66 licence category.
+  
+---
 
-### Conclusion
-In summary, if the candidate only holds examination certificates without completing an approved basic training course, they will likely need to complete that training before they can apply for a Part-66 licence in Finland. Additionally, they must meet the relevant experience requirements based on the category of licence they are pursuing.
+### 3. **Experience Requirements**
+Even with CoRs, candidates must demonstrate relevant practical maintenance experience. Requirements vary by licence category:
 
-For personalized guidance and to clarify any specific circumstances, it is advisable for the candidate to consult directly with Traficom or refer to EASA regulations regarding aircraft maintenance licensing.
+- **Category A or B Licences:**
+  - **1 year of practical experience** if the basic training course was completed.
+  - The experience must:
+    - Be relevant to civil aircraft maintenance.
+    - Be gained within the **10 years preceding the application**.
+    - Include at least **6 months of recent maintenance experience** during the year before applying.
+    
+- **Category C Licence:**
+  - At least **3 years of civil aircraft maintenance experience** on large aircraft after completing the relevant Category B licence.
+
+---
+
+### 4. **Application Process**
+To apply for a Part-66 licence, candidates must:
+1. **Gather Required Documents:**
+   - **Certificates of Recognition (CoR)** from the Part-147 organization.
+   - **Logbook or Records of Practical Maintenance Experience.**
+   - Any additional documentation required by **Traficom**.
+2. **Submit an Application:**
+   - Submit the completed application and documentation to **Traficom**, ensuring all requirements are met.
+
+---
+
+### 5. **Medical Requirements**
+- No specific medical requirements are mandated by EU legislation for Part-66 licence applicants.
+
+---
+
+## Advantages of Having Exam Certificates and CoR
+- **Streamlined Process:** The CoR verifies both theoretical and practical training, reducing additional training requirements.
+- **Recognition:** CoRs are recognized across all EASA member states.
+- **Reduced Experience Requirements:** Candidates may need less practical experience than those without formal training certificates.
+
+---
+
+## Summary
+Candidates with both exam certificates and Certificates of Recognition (CoR) are well-positioned to obtain a Part-66 licence. However, they must still meet the relevant practical experience requirements for the licence category they are pursuing. For personalized advice or additional guidance, candidates should consult **Traficom** or refer to **EASA regulations**.
+
+---
+
+For further clarification, visit the [EASA official website](https://www.easa.europa.eu) or contact Traficom in Finland.
