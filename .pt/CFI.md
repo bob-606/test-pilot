@@ -70,13 +70,13 @@ Qualifies you to provide flight instruction to student pilots.
 
 **Training Components:**
 
-- **Theoretical Instruction:** 25 hours focusing on teaching methodologies.
+- **Theoretical Instruction:** 125 hours focusing on teaching methodologies.
 - **Flight Training:** 30 hours of flight instruction training.
 
 **Estimated Cost:**  
 €5,900 – €7,980, depending on the flight school.
 
-*Example:* Noir Flight Academy in Hungary offers the FI course for €5,900, which includes ground training, 30 hours of Single-Engine Piston (SEP) instruction, and spin training. :contentReference[oaicite:0]{index=0}
+*Example:* OMNI Flight School in Portugal offers the FI course with 125 hours of theoretical instruction and 30 hours of flight instruction. :contentReference[oaicite:0]{index=0}
 
 ## 7. Additional Ratings (Optional)
 
@@ -113,11 +113,9 @@ Qualifies you to provide flight instruction to student pilots.
 
 Upon completion, Flight Instructors in Europe can expect varying salaries based on location and experience.
 
-- **Germany:** Average annual salary is approximately €88,799, with entry-level positions starting around €62,151. :contentReference[oaicite:1]{index=1}
+- **Portugal:** In Porto, the average salary for a Flight Instructor is approximately €60,560 per year, with an equivalent hourly rate of €29. :contentReference[oaicite:1]{index=1}
 
-- **United Kingdom:** Average salary is around £30,000 per year. :contentReference[oaicite:2]{index=2}
-
-- **Hungary:** In Budapest, the average salary for a Flight Instructor is about 8,962,946 HUF annually. :contentReference[oaicite:3]{index=3}
+- **Finland:** In Turku, the average salary for a Flight Instructor is about €85,128 annually, with an equivalent hourly rate of €41. :contentReference[oaicite:2]{index=2}
 
 These figures are averages and can vary based on factors such as experience, qualifications, and the specific employer. Additionally, demand for flight instructors can influence earning potential, with shortages in certain regions potentially leading to higher salaries.
 
