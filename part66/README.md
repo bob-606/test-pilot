@@ -104,7 +104,3 @@ To obtain an EASA Part 66 license, applicants must meet the following:
 - **EASA Official Website:** [www.easa.europa.eu](https://www.easa.europa.eu)
 - **EASA Part 66 Text:** Detailed regulatory text and amendments.
 - **National Aviation Authorities:** Guidance and application procedures for specific member states.
-
----
-
-EASA Part 66 provides a structured framework for certifying aircraft maintenance personnel, ensuring safety, reliability, and professionalism in aviation maintenance. For further questions or assistance, feel free to ask!
