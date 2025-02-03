@@ -1,3 +1,5 @@
+# NOTE THAT THE UK AUTORITY IS TRYING TO MERGE NPPL & PPL
+
 # Pathway from NPPL (Microlight) to EASA PPL and Flight Instructor Certification
 
 Transitioning from a UK-issued National Private Pilot Licence (NPPL) with a Microlight rating to an EASA Private Pilot Licence (PPL) and subsequently to a Flight Instructor (FI) certificate involves several steps.
