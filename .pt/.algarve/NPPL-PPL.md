@@ -1,4 +1,4 @@
-# NOTE THAT THE UK AUTORITY IS TRYING TO MERGE NPPL & PPL
+# NOTE THAT THE UK AUTORITY IS TRYING TO MERGE NPPL & PPL [WHY?](https://www.perplexity.ai/search/is-the-uk-government-trying-to-MeUySDoqSrmkf5b8mDiFOA?utm_source=copy_output)
 
 # Pathway from NPPL (Microlight) to EASA PPL and Flight Instructor Certification
 
