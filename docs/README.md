@@ -10,7 +10,7 @@
 
 6. ??
 7. FTE
-8. TF
+8. TP
 
 NB! The financier could be [**novobanco**](https://www.novobanco.pt/particulares/credito/credito-pessoal-formacao-estudos).
 
