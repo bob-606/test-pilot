@@ -14,4 +14,6 @@
 
 NB! The financier could be [**novobanco**](https://www.novobanco.pt/particulares/credito/credito-pessoal-formacao-estudos).
 
+![goal](./life-goal.png)
+
 ### [📧](mailto:tor@easa.fi) [TG](https://t.me/easa_fi)
