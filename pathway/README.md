@@ -12,5 +12,4 @@
 
 NB! The financier could be [**novobanco**](https://www.novobanco.pt/particulares/credito/credito-pessoal-formacao-estudos)
 
-![goal](./Screenshot from 2025-03-09 15-59-02.png)
-![test](./lux.png)
+![goal](./lux.png)
