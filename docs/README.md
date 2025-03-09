@@ -7,7 +7,7 @@
 5. CPL {.hu} \
        - .. \
        - .. 
-7. 
-8. 
+7. FTE
+8. TF
 
-NB! The financier could be [**novobanco**](https://www.novobanco.pt/particulares/credito/credito-pessoal-formacao-estudos)
+NB! The financier could be [**novobanco**](https://www.novobanco.pt/particulares/credito/credito-pessoal-formacao-estudos).
