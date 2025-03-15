@@ -10,7 +10,7 @@
        - .. 
 
 7. LUX
-8. [FTE / TP](https://ntps.edu/masters-degree/)
+8. FTE / TP ([ITPS](https://itpscanada.com/); [NTPS](https://ntps.edu/masters-degree/))
 9. [U-2](https://en.wikipedia.org/wiki/Lockheed_U-2)
 
 NB! The financier could be [**novobanco**](https://www.novobanco.pt/particulares/credito/credito-pessoal-formacao-estudos).
