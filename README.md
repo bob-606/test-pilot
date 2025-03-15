@@ -108,7 +108,8 @@
   - Target hybrid roles (e.g., **flight test engineer**) to blend your engineering skills with flight testing.  
 
 **Resources**:  
-- [European Test Pilot School (ETPS)](https://www.etps.com/)  
+- [INTERNational Test Pilot School (ITPS)](https://itpscanada.com/)
+- [EURO FLIGHT TEST](https://www.euroflighttest.com/)
 - [National Test Pilot School (NTPS)](https://www.ntps.edu/)  
 
 
