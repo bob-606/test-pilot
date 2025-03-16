@@ -1,6 +1,6 @@
 https://flywithtrent.com/
 
-![trent](./trent.png)
+![trent](./img/trent.png)
 
 # Summary: How to Become a Successful Independent Flight Instructor (CFI)
 
