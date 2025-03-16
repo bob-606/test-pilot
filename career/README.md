@@ -15,9 +15,10 @@
    
 6. [FI (SEVENAIR Academy)](https://www.sevenair.com/flight-instructor-course) {.pt} *NB! at least 200H flight totals aircraft, of which 150H as PIC (prerequisite).* \
        - [Aeropole](https://www.aeropole.fi/join-us/) \
-       - [SEVENAIR Academy](https://www.sevenair.com/)
+       - [SEVENAIR Academy](https://www.sevenair.com/) \
+       - [Fly EPT Spain](https://www.flyeptspain.com/careers)
 
-7. CPL {.hu} \
+8. CPL {.hu} \
        - .. \
        - .. 
 
