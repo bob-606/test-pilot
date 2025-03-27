@@ -10,7 +10,7 @@
 6. [CPL (Fly EPT Spain)](https://www.flyeptspain.com/atpl-theory-course-online) {.es}
 7. LUX 
 8. FTE / TP ([ITPS](https://itpscanada.com/); [NTPS](https://ntps.edu/masters-degree/)) {Suur-Ameerika} 
-9. [U-2](https://en.wikipedia.org/wiki/Lockheed_U-2) aka _**Santa**_
+9. [U-2](https://en.wikipedia.org/wiki/Lockheed_U-2) {aka _**Santa**_}
 
 NB! The financier could be [**novobanco**](https://www.novobanco.pt/particulares/credito/credito-pessoal-formacao-estudos).
 
