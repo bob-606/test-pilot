@@ -20,7 +20,7 @@
 ## 🛠️ **Action Plan**  
 
 ### 1. **Validate Bachelor’s Degree**  
-   - Submit transcripts to [INAC (Portugal)](https://www.inac.pt) or [Trafi (Finland)](https://www.trafi.fi) for **credits/exemptions** (e.g., Electrical Fundamentals).  
+   - Submit transcripts to [INAC (Portugal)](https://www.inac.pt) or [Traficom (Finland)](https://www.trafi.fi) for **credits/exemptions** (e.g., Electrical Fundamentals).  
 
 ### 2. **Gain Experience**  
    | **Task**                | **Timeline** | **Key Targets**                          |  
