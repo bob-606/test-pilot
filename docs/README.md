@@ -1,8 +1,8 @@
 # /ˈpɑːθˌfʌɪndə/
 
-1. [AMT/AME (IFA)](https://ifa-training.com/courses/aircraft-maintenance-technician/) {.pt}
-2. [FI(S) (ASKÖ)](https://www.flugsport-wien.at/gb/segelflug/segelflugausbildung/) {.at}
-3. [PPL (Flying Academy)](https://portugal.flyingacademy.com/) {.pt} 
+0️⃣ [AMT/AME (IFA)](https://ifa-training.com/courses/aircraft-maintenance-technician/) {.pt}
+1️⃣ [FI(S) (ASKÖ)](https://www.flugsport-wien.at/gb/segelflug/segelflugausbildung/) {.at}
+2️⃣ [PPL (Flying Academy)](https://portugal.flyingacademy.com/) {.pt} 
 4. ATPL Theory + Time Building {.eu}
    - [ATPL Theory] ([Fly EPT Spain](https://www.flyeptspain.com/atpl-theory-course-online); [Easy-Pilot](https://www.easy-pilot.com/atpl-theory)) {.eu}
    - [Time Building] ([Fly EPT Spain](https://www.flyeptspain.com/); [Flying Academy](https://portugal.flyingacademy.com/timebuilding-in-portimao/)) {.eu}
