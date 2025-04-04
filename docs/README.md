@@ -9,7 +9,7 @@
      
 4️⃣ [FI (SEVENAIR Academy)](https://www.sevenair.com/flight-instructor-course) {.pt} *NB! at least 200H flight totals aircraft, of which 150H as PIC (prerequisite).* \
 5️⃣ [CPL (Fly EPT Spain)](https://www.flyeptspain.com/atpl-theory-course-online) {.es} \
-6️⃣ LUX \
+6️⃣ [Luxair](https://www.luxair.lu/pt) / [Cargolux](https://www.cargolux.com/) \
 7️⃣ FTE / TP ([ITPS](https://itpscanada.com/); [NTPS](https://ntps.edu/masters-degree/)) {Suur-Ameerika} \
 8️⃣ [U-2](https://en.wikipedia.org/wiki/Lockheed_U-2) {aka [_**Santa**_](https://en.wikipedia.org/wiki/Rovaniemi)} \
 9️⃣ ?? 
