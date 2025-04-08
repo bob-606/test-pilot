@@ -22,7 +22,7 @@ Citations:
 ---
 Answer from Perplexity: pplx.ai/share
 
-### NB! Applicable to EASA:
+# NB! Applicable to EASA:
 
 Achieving an affordable pathway to an EASA ATPL (Airline Transport Pilot Licence) is possible through strategic planning, though costs generally remain higher than the $35,000 example in the U.S. Here’s how it can be done under EASA regulations:
 
