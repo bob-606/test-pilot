@@ -3,3 +3,4 @@
 ## [RECHARGE BEFORE FLIGHT](https://vaeridion.com/)
 ## [AdvanTec GmbH](https://advantecgmbh.de/)
 ## [VOCUS](https://vocus3.de/)
+## [AK-X](https://akaflieg-karlsruhe.de/en/)
