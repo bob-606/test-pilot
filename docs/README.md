@@ -1,4 +1,4 @@
-# /ˈpɑːθˌfʌɪndə/
+# /ˈpɑːθˌfʌɪndə/ (Hot-Spot PW: AirLovers)
 
 0️⃣ [AMT/AME (IFA)](https://ifa-training.com/courses/aircraft-maintenance-technician/) {.pt} \
 1️⃣ [FI(S) (ASKÖ)](https://www.flugsport-wien.at/gb/segelflug/segelflugausbildung/) {.at} *NB! (das) Deutsche proficiency (prerequisite).* \
