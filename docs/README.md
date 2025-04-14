@@ -12,7 +12,7 @@
 6️⃣ [Luxair](https://www.luxair.lu/pt) / [Cargolux](https://www.cargolux.com/) \
 7️⃣ FTE / TP ([ITPS](https://itpscanada.com/); [NTPS](https://ntps.edu/masters-degree/)) {Suur-Ameerika} \
 8️⃣ [U-2](https://en.wikipedia.org/wiki/Lockheed_U-2) {aka [_**Santa**_](https://en.wikipedia.org/wiki/Rovaniemi)} \
-9️⃣ [RECHARGE BEFORE FLIGHT](https://vaeridion.com/) 
+9️⃣ **RBF** [RECHARGE BEFORE FLIGHT](https://vaeridion.com/) 
 
 NB! The financier could be [**novobanco**](https://www.novobanco.pt/particulares/credito/credito-pessoal-formacao-estudos).
 
