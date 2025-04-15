@@ -16,6 +16,8 @@
 
 ⚡🔋 **¡RBF!** [RECHARGE BEFORE FLIGHT](https://vaeridion.com/) 🛩️✈️
 
+[Under 50k](https://pannonair.hu/zero-to-airline-pilot-program/)
+
 ![goal](./img/life-goal.png)
 ![ABR](./img/justin-case.png)
 
