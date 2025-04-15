@@ -4,7 +4,7 @@
 ## [AdvanTec GmbH](https://advantecgmbh.de/)
 ## [VOCUS](https://vocus3.de/)
 ## [AK-X](https://akaflieg-karlsruhe.de/en/)
-
+## [RISEN](https://www.portoaviationgroup.com/)
 ---
 
 # Indra Avitech: A Comprehensive Analysis of a Leading Aviation Technology Provider
