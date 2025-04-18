@@ -3,7 +3,7 @@
 0️⃣ [AMT/AME (IFA)](https://ifa-training.com/courses/aircraft-maintenance-technician/) {.pt} \
 1️⃣ [FI(S) (ASKÖ)](https://www.flugsport-wien.at/gb/segelflug/segelflugausbildung/) {.at} *NB! (das) Deutsche proficiency (prerequisite).* \
 2️⃣ [PPL (Flying Academy)](https://portugal.flyingacademy.com/) {.pt} *NB! The financier could be [**novobanco**](https://www.novobanco.pt/particulares/credito/credito-pessoal-formacao-estudos).*\
-3️⃣ ATPL Theory + Time Building {.eu} *NB! [Under 50k](https://pannonair.hu/zero-to-airline-pilot-program/)*
+3️⃣ ATPL Theory + Time Building {.eu} *NB! [Under 50k](https://pannonair.hu/zero-to-airline-pilot-program/).*
    - [ATPL Theory] ([Fly EPT Spain](https://www.flyeptspain.com/atpl-theory-course-online); [Easy-Pilot](https://www.easy-pilot.com/atpl-theory)) {.eu}
    - [Time Building] ([Fly EPT Spain](https://www.flyeptspain.com/); [Flying Academy](https://portugal.flyingacademy.com/timebuilding-in-portimao/)) {.eu} 
      
