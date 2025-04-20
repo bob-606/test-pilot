@@ -6,11 +6,11 @@ Converting your European Union Aviation Safety Agency (EASA) pilot license to a 
 
 - **Conversion Process:** Under 14 CFR 61.75, an EASA PPL can be converted to an FAA Private Pilot Certificate without additional testing.
 
-- **Instrument Rating (IR):** If your EASA PPL includes an Instrument Rating, you may need to complete additional training, such as 10 hours of theoretical instruction and 10 hours of flight training, to meet FAA standards. :contentReference[oaicite:0]{index=0}
+- **Instrument Rating (IR):** If your EASA PPL includes an Instrument Rating, you may need to complete additional training, such as 10 hours of theoretical instruction and 10 hours of flight training, to meet FAA standards. 
 
 ## Commercial Pilot License (CPL) and Airline Transport Pilot License (ATPL)
 
-- **Conversion Process:** The FAA does not offer direct conversions for EASA CPL or ATPL. You must meet specific FAA requirements, including passing written and practical exams, to obtain the equivalent FAA certificate. :contentReference[oaicite:1]{index=1}
+- **Conversion Process:** The FAA does not offer direct conversions for EASA CPL or ATPL. You must meet specific FAA requirements, including passing written and practical exams, to obtain the equivalent FAA certificate. 
 
 ## Flight Instructor Certificates
 
@@ -20,11 +20,11 @@ Converting your European Union Aviation Safety Agency (EASA) pilot license to a 
 
   - Completing a practical test.
 
-  - Holding an FAA Commercial Pilot Certificate or higher. :contentReference[oaicite:2]{index=2}
+  - Holding an FAA Commercial Pilot Certificate or higher. 
 
 ## General Conversion Steps
 
-1. **Verification:** Submit FAA Form 8060-71 to verify your EASA license's authenticity. :contentReference[oaicite:3]{index=3}
+1. **Verification:** Submit FAA Form 8060-71 to verify your EASA license's authenticity. 
 
 2. **FAA Requirements:** Ensure compliance with FAA regulations, including obtaining a valid FAA medical certificate and demonstrating English language proficiency.
 
@@ -40,6 +40,6 @@ Converting your European Union Aviation Safety Agency (EASA) pilot license to a 
 
 - **Regulatory Differences:** Be aware of procedural differences between EASA and FAA regulations, which may require additional training.
 
-For detailed guidance, refer to FAA Advisory Circular AC 61-143, which outlines the conversion process between FAA and EASA licenses. :contentReference[oaicite:4]{index=4}
+For detailed guidance, refer to FAA Advisory Circular AC 61-143, which outlines the conversion process between FAA and EASA licenses. 
 
 Consulting with a flight training provider experienced in license conversions is advisable to navigate the process effectively.
