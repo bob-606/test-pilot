@@ -1,4 +1,3 @@
-```markdown
 # EASA Part-66 Category C Pathway in Portugal  
 **Integrated Training for Electric & Fuel-Based Small Airplanes**  
 
@@ -120,6 +119,3 @@ Citations:
 [41] https://www.bestaviation.net/aircraft_maintenance_schools/europe/
 [42] https://www.easa.europa.eu/en/domains/aircrew-and-medical/approved-training-organisations-ato
 [43] https://www.gcaa.gov.ae/en/epublication/NPADocuments/NPA%2013%20-%202013%20-%20CAR%20PART%20II%20Chapter%207%20-%20CAR%2066%20AIRCRAFT%20MAINTENANCE%20ENGINEER%20LICENSING.pdf
-
----
-Answer from Perplexity: pplx.ai/share
