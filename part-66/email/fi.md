@@ -6,5 +6,5 @@ Traficom does not have the capacity to have licenced personnel without connectio
 
 To apply for a personal licence You should therefore have an personal identity code and either work for a company with connection to Finland or have residence in Finland. Should You at a later stage fulfil these criteria, You are welcome to contact us again.
 
-With Best Regards
+With Best Regards \
 Mr. J
