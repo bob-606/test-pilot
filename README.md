@@ -35,7 +35,7 @@
 
 ---
 
-## 🇵🇹🇫🇮 **Country-Specific Steps**  
+## 🇵🇹🇪🇪🇫🇮 **Country-Specific Steps**  
 | **Requirement**         | **Portugal**                                | **Finland**                               |  
 |-------------------------|---------------------------------------------|-------------------------------------------|  
 | **Language**            | Portuguese (A2/B1)                          | Finnish/Swedish (B1)                      |  
