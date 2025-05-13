@@ -7,7 +7,7 @@
    - [ATPL Theory] ([Fly EPT Spain](https://www.flyeptspain.com/atpl-theory-course-online); [Easy-Pilot](https://www.easy-pilot.com/atpl-theory)) {.eu}
    - [Time Building] ([Fly EPT Spain](https://www.flyeptspain.com/); [Flying Academy](https://portugal.flyingacademy.com/timebuilding-in-portimao/)) {.eu} 
      
-4️⃣ [FI (SEVENAIR Academy)](https://www.sevenair.com/flight-instructor-course) {.pt} *NB! at least 200H flight totals aircraft, of which 150H as PIC (prerequisite).* \
+4️⃣ [FI (SEVENAIR Academy)](https://www.sevenair.com/flight-instructor-course) {.pt} *NB! at least 200H flight totals aircraft (150H as PIC).* \
 5️⃣ [CPL (Fly EPT Spain)](https://www.flyeptspain.com/atpl-theory-course-online) {.es} \
 6️⃣ [Luxair](https://www.luxair.lu/pt) / [Cargolux](https://www.cargolux.com/) {.lu} \
 7️⃣ [ATPL(H) (Hillsboro Aero)](https://flyhaa.com/helicopter/) {.or} \
