@@ -10,7 +10,7 @@
 ## 🎯 **Core Requirements**  
 | **Component**          | **Details**                                                                 |  
 |-------------------------|-----------------------------------------------------------------------------|  
-| **Education**           | ✅ Bachelor’s degree in technical field (validated by INAC/Trafi).          |  
+| **Education**           | ✅ Bachelor’s degree in technical field (validated by INAC/Traficom).          |  
 | **Experience**          | 3 years in civil aircraft maintenance (incl. 6 months observing **base maintenance**). |  
 | **EU Experience**       | 12 months in EASA Part-145 organization (mandatory for non-EU candidates).  |  
 | **Exams**               | Pass Part-66 modules (e.g., B1/B2 exams). Use degree for module exemptions. |  
