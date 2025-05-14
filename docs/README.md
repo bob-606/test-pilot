@@ -1,5 +1,7 @@
 # /ˈpɑːθˌfʌɪndə/ (Hot-Spot PW: AirLovers)
 
+## Faru kion vi volas.
+
 0️⃣ [AMT/AME (IFA)](https://ifa-training.com/courses/aircraft-maintenance-technician/) {.pt} \
 1️⃣ [PPL (Flying Academy)](https://portugal.flyingacademy.com/) {.pt} *NB! The financier could be [**novobanco**](https://www.novobanco.pt/particulares/credito/credito-pessoal-formacao-estudos).*\
 2️⃣ [FI(S) (ASKÖ)](https://www.flugsport-wien.at/gb/segelflug/segelflugausbildung/) {.at} *NB! (das) Deutsche proficiency (prerequisite).* \
