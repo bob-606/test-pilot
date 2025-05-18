@@ -1,5 +1,4 @@
 # /ˈpɑːθˌfʌɪndə/ (Hot-Spot PW: AirLovers)
-
 ## Faru kion vi volas || Faça o que queres || やりたいことをやれ
 
 0️⃣ [AMT/AME (IFA)](https://ifa-training.com/courses/aircraft-maintenance-technician/) {.pt} \
