@@ -2,20 +2,20 @@
 ## Faru kion vi volas || Faça o que queres || やりたいことをやれ
 
 0️⃣ [AMT/AME (IFA)](https://ifa-training.com/courses/aircraft-maintenance-technician/) {.pt} \
-   - M1 (): Both
-   - M2 (): Both
-   - M3 (): Both
-   - M4 (): Both (B2は上級)
-   - M5 (): Both
-   - M6 (): Both
-   - M7 (): Both
-   - M8 (): Both
-   - M9 (): Both
-   - M10 (): Both
-   - M11B (): B1.2
-   - M13 (): B2 🟡
-   - M14 (): B2 🟡
-   - M16 (): B1.2
+   - 🔴 M1 (): Both
+   - 🔴 M2 (): Both
+   - 🔴 M3 (): Both
+   - 🔴 M4 (): Both (B2は上級)
+   - 🔴 M5 (): Both
+   - 🔴 M6 (): Both
+   - 🔴 M7 (): Both
+   - 🔴 M8 (): Both
+   - 🔴 M9 (): Both
+   - 🔴 M10 (): Both
+   - 🔴 M11B (): B1.2
+   - 🟡 M13 (): B2 
+   - 🟡 M14 (): B2
+   - 🔴 M16 (): B1.2
 
 1️⃣ [PPL (SEVENAIR Academy)](https://www.sevenair.com/flight-instructor-course) {.pt} *NB! The financier could be [**novobanco**](https://www.novobanco.pt/particulares/credito/credito-pessoal-formacao-estudos).*\
 2️⃣ [FI(S) (ASKÖ)](https://www.flugsport-wien.at/gb/segelflug/segelflugausbildung/) {.at} *NB! (das) Deutsche proficiency (prerequisite).* \
