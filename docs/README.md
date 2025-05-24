@@ -2,17 +2,17 @@
 ## Faru kion vi volas || Faça o que queres || やりたいことをやれ
 
 0️⃣ [AMT/AME (IFA)](https://ifa-training.com/courses/aircraft-maintenance-technician/) {.pt} \
-   - 🔴 M1 (): Both
-   - 🔴 M2 (): Both
-   - 🔴 M3 (): Both
-   - 🔴 M4 (): Both (B2は上級)
-   - 🔴 M5 (): Both
-   - 🔴 M6 (): Both
-   - 🔴 M7 (): Both
-   - 🔴 M8 (): Both
-   - 🔴 M9 (): Both
-   - 🔴 M10 (): Both
-   - 🔴 M11B (): B1.2
+   - 🔴 M1 (Mathematics): Both
+   - 🔴 M2 (Physics): Both
+   - 🔴 M3 (Electrical Fundamentals): Both
+   - 🔴 M4 (Electronic Fundamentals): Both (B2は上級)
+   - 🔴 M5 (Digital Techniques/Electronic Instrument Systems): Both
+   - 🔴 M6 (Materials & Hardware): Both
+   - 🔴 M7 (Maintenance Practices): Both
+   - 🔴 M8 (Basic Aerodynamics): Both
+   - 🔴 M9 (Human Factors): Both
+   - 🔴 M10 (Aviation Legislation): Both
+   - 🔴 M11B (Aeroplane Aerodynamics, Structures & Systems (Piston)): B1.2
    - 🟡 M13 (): B2 
    - 🟡 M14 (): B2
    - 🔴 M16 (): B1.2
