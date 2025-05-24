@@ -16,6 +16,7 @@
    - 🟡 M13 (): B2 
    - 🟡 M14 (): B2
    - 🔴 M16 (): B1.2
+   - 🔴 M17 (): B1.2
 
 1️⃣ [PPL (SEVENAIR Academy)](https://www.sevenair.com/flight-instructor-course) {.pt} *NB! The financier could be [**novobanco**](https://www.novobanco.pt/particulares/credito/credito-pessoal-formacao-estudos).*\
 2️⃣ [FI(S) (ASKÖ)](https://www.flugsport-wien.at/gb/segelflug/segelflugausbildung/) {.at} *NB! (das) Deutsche proficiency (prerequisite).* \
