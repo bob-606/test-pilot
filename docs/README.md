@@ -38,7 +38,8 @@
 8️⃣ FTE / TP ([ITPS](https://itpscanada.com/); [NTPS](https://ntps.edu/masters-degree/)) {Suur-Ameerika} 🧊 \
 9️⃣ U-X ([exempli gratia](https://en.wikipedia.org/wiki/Lockheed_U-2)) {aka [_**Santa**_](https://en.wikipedia.org/wiki/Rovaniemi)} 🧊
 
-🔋✈️ [R. B. F.](https://vaeridion.com/) 🛩️⚡
+🔋✈️ [R. B. F.](https://vaeridion.com/) 🛩️⚡ \
+🛰️[🅰️lways 🅱e ©️onnected](https://careers.ses.com/)🌐
 
 ![goal](./img/life-goal.png)
 ![ABR](./img/justin-case.png)
