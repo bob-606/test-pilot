@@ -1,3 +1,5 @@
+#Perphaps N/A in EU.
+
 https://flywithtrent.com/
 
 ![trent](./img/trent.png)
