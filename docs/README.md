@@ -17,7 +17,7 @@
    - 🟡 M13 (Avionics Aircraft Structures & Systems): B2 
    - 🟡 M14 (Propulsion): B2
    - 🔴 M16 (): B1.2
-   - 🔴 M17 (): B1.2
+   - 🔴 M17 (Propeller Systems): B1.2
 
 1️⃣ [PPL](https://easa.fi) {.eu} 🧊
    - [IFA](https://ifa-training.com/flight-school/) {.pt}
