@@ -1,5 +1,6 @@
 # /ˈpɑːθˌfʌɪndə/ (Hot-Spot PW: AirLovers)
 ## Faru kion vi volas || Faça o que queres || やりたいことをやれ
+### Fly with Justin in 2030
 
 0️⃣ [AMT/AME (IFA)](https://ifa-training.com/courses/aircraft-maintenance-technician/) {.pt} 🚧
    - 🔴 M1 (Mathematics): Both
@@ -40,7 +41,6 @@
 
 🔋✈️ [R. B. F.](https://vaeridion.com/) 🛩️⚡ \
 🛰️[🅰️lways 🅱e ©️onnected](https://careers.ses.com/)🌐
-take him for a flight by 2030
 
 ![goal](./img/life-goal.png)
 ![ABR](./img/justin-case.png)
