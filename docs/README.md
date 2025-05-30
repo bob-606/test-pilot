@@ -40,6 +40,7 @@
 
 🔋✈️ [R. B. F.](https://vaeridion.com/) 🛩️⚡ \
 🛰️[🅰️lways 🅱e ©️onnected](https://careers.ses.com/)🌐
+take him for a flight by 2030
 
 ![goal](./img/life-goal.png)
 ![ABR](./img/justin-case.png)
