@@ -5,5 +5,8 @@
     New programs to be launched in Jan 2026. For example, a tailored course for electric airplanes.
     
 ### Training
+    B1.2
+    B2
+    C
 
 ### Employment
