@@ -1,4 +1,4 @@
-# /ˈpɑːθˌfʌɪndə/ (Hot-Spot PW: AirLovers)
+# /ˈpɑːθˌfʌɪndə/
 ## Faru kion vi volas || Faça o que queres || やりたいことをやれ
 ### Fly with Justin in 2030
 
