@@ -1,6 +1,6 @@
 # /ˈpɑːθˌfʌɪndə/
 ## Faru kion vi volas || Faça o que queres || やりたいことをやれ
-### Fly with JB in 2030
+### Fly with LL in 2030
 
 0️⃣ [AMT/AME (IFA)](https://ifa-training.com/courses/aircraft-maintenance-technician/) {.pt} 🚧
    - 🔴 M1 (Mathematics): Both
