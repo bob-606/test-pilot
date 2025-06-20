@@ -11,7 +11,7 @@ To pursue both EASA Part 66 Category B (Estonia) and Category C (Finland) licens
 ### **2. Theoretical Knowledge Preparation**
 - **For Estonia (Category B)**:  
   - Complete **EASA Part 66 modules** relevant to your subcategory (B1/B2).  
-  - Pass exams through an EASA Part 147 school or directly via the Estonian Transport Administration (Transpordiamet).  
+  - Pass exams through an EASA Part 147 school or directly via Transpordiamet.  
 
 - **For Finland (Category C – Academic Route)**:  
   - Hold an **engineering degree** (e.g., aerospace, mechanical) recognized by EASA.  
@@ -24,7 +24,7 @@ To pursue both EASA Part 66 Category B (Estonia) and Category C (Finland) licens
 - **Submit to Transpordiamet**:  
   - Proof of Portuguese experience (logbook, employer letters).  
   - Passed Part 66 exam certificates.  
-  - Application fee and language proficiency (if exams are in Estonian).  
+  - Application fee and language proficiency.  
 
 #### **Finland (Category C License)**
 - **Submit to Traficom (Finnish Transport Agency)**:  
@@ -35,7 +35,7 @@ To pursue both EASA Part 66 Category B (Estonia) and Category C (Finland) licens
 ---
 
 ### **4. Key Considerations**
-- **Language**: Confirm exam language (English may be available; check with authorities).  
+- **Language**: Confirm exam language.  
 - **Documentation**: Translate Portuguese experience logs into English/Finnish/Estonian if required.  
 - **Timeline**: Expect delays; start applications early.  
 - **Costs**: Budget for exams (~€100–€300/module), translation, and administrative fees.  
