@@ -1,3 +1,5 @@
+# WHAT IF I GET ALL THE PART 66 EXAMS DONE IN ESTONIA??
+
 To pursue both EASA Part 66 Category B (Estonia) and Category C (Finland) licenses simultaneously after gaining experience in Portugal:
 
 ### **1. Experience in Portugal (3 Years)**
