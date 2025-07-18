@@ -1,4 +1,3 @@
 Fly from .cy to .lb w/ Alex
 
-
-1000 EUR  / n
+Cost: 1000 EUR  / n
