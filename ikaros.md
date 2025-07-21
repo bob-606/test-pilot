@@ -4,3 +4,4 @@ https://www.ikaros147.com/basic-part-66-3/
 
 ![Uploading image.png…](./docs/img/ikaros-147-aviation-training-center-trainings-schedule1.jpg)
 
+# B3: Non-pressurised single engine piston aeroplanes ????
