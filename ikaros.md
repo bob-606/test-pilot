@@ -2,5 +2,5 @@
 
 https://www.ikaros147.com/basic-part-66-3/
 
-![Uploading image.png…](/docs/asset/ikaros-147-aviation-training-center-trainings-schedule1.jpg)
+![Uploading image.png…](./docs/img/ikaros-147-aviation-training-center-trainings-schedule1.jpg)
 
