@@ -2,7 +2,7 @@
 ## Faru kion vi volas || Faça o que queres || やりたいことをやれ
 ### Fly with LL in 2030
 
-0️⃣ [AMT/AME (IFA)](https://ifa-training.com/courses/aircraft-maintenance-technician/) {.pt} 🚧
+0️⃣ [AMT/AME](https://www.traficom.fi/en/transport/aviation/aviation-professionals/aircraft-maintenance-licence-part-66) {.eu} 🚧
    - 🔴 M1 (Mathematics): Both
    - 🔴 M2 (Physics): Both
    - 🔴 M3 (Electrical Fundamentals): Both
