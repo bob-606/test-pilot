@@ -1,6 +1,5 @@
 # /ˈpɑːθˌfʌɪndə/
 ## Faru kion vi volas || Faça o que queres || やりたいことをやれ
-### Fly with LL in 2030
 
 0️⃣ [AMT/AME](https://www.traficom.fi/en/transport/aviation/aviation-professionals/aircraft-maintenance-licence-part-66) {.eu} 🚧
    - 🔴 M1 (Mathematics): Both
@@ -47,3 +46,5 @@
 ![sam-said](./img/plot-twist.jpg)
 
 ## [📧](mailto:tor@easa.fi) [TG](https://t.me/easa_fi)
+### Fly with LL in 2030
+
