@@ -48,4 +48,3 @@
 
 ## [📧](mailto:tor@easa.fi) [TG](https://t.me/easa_fi)
 ### Fly with LL in 2030
-
