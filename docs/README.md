@@ -3,7 +3,7 @@
 
 0️⃣ [AMT/AME](https://www.traficom.fi/en/transport/aviation/aviation-professionals/aircraft-maintenance-licence-part-66) {.eu} 🚧
    - 🟡 M1 (Mathematics): Both
-   - 🟡 M2 (Physics): Both
+   - 🔴 M2 (Physics): Both
    - 🔴 M3 (Electrical Fundamentals): Both
    - 🔴 M4 (Electronic Fundamentals): Both (B2は上級)
    - 🔴 M5 (Digital Techniques/Electronic Instrument Systems): Both
