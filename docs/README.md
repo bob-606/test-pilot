@@ -1,7 +1,7 @@
 # /ˈpɑːθˌfʌɪndə/
 ## Faru kion vi volas || Faça o que queres || やりたいことをやれ
 
-0️⃣ [AMT/AME B1+B2+C](https://www.traficom.fi/en/transport/aviation/aviation-professionals/aircraft-maintenance-licence-part-66) {.eu} 🚧
+0️⃣ [AMT/AME](https://www.traficom.fi/en/transport/aviation/aviation-professionals/aircraft-maintenance-licence-part-66) (B1+B2+C) {.eu} 🚧
    - 🟡 M1 (Mathematics): Both
    - 🟡 M2 (Physics): Both
    - 🟡 M3 (Electrical Fundamentals): Both
