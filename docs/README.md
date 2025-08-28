@@ -1,7 +1,7 @@
 # /ˈpɑːθˌfʌɪndə/
 ## Faru kion vi volas || Faça o que queres || やりたいことをやれ
 
-0️⃣ [AMT/AME](https://www.traficom.fi/en/transport/aviation/aviation-professionals/aircraft-maintenance-licence-part-66) {.eu} 🚧
+0️⃣ [AMT/AME B1+B2+C](https://www.traficom.fi/en/transport/aviation/aviation-professionals/aircraft-maintenance-licence-part-66) {.eu} 🚧
    - 🟡 M1 (Mathematics): Both
    - 🟡 M2 (Physics): Both
    - 🟡 M3 (Electrical Fundamentals): Both
@@ -18,6 +18,8 @@
    - 🟡 M14 (Propulsion): B2
    - 🔴 M16 (Piston Engine): B1.2
    - 🔴 M17 (Propeller Systems): B1.2
+
+      ***+ Hands-on experience potentially in Cyprus (3~5y).***
 
 1️⃣ [PPL](https://easa.fi) {.eu} 🧊
    - [IFA](https://ifa-training.com/flight-school/) {.pt}
