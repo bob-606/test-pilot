@@ -21,14 +21,17 @@
 
       ***+ Hands-on experience potentially in Cyprus (3~5y).***
 
-1️⃣ [PPL](https://easa.fi) {.eu} 🧊
-   - [IFA](https://ifa-training.com/flight-school/) {.pt}
-   - [7air](https://www.sevenair.com/flight-instructor-course) {.pt} *NB! The financier could be [**novobanco**](https://www.novobanco.pt/particulares/credito/credito-pessoal-formacao-estudos).* 
-
-2️⃣ [FI(S)](https://www.flugsport-wien.at/gb/segelflug/segelflugausbildung/) {.eu} 🧊
+1️⃣ [FI(S)](https://www.purilend.ee/) {.eu} 🚧
+   - [NAA](https://naa.ee/){.ee}
    - [ASKÖ](https://www.flugsport-wien.at/gb/segelflug/segelflugausbildung/) {.at} *NB! (das) Deutsche proficiency (prerequisite).* 
    - [Bulgaria Gliding](http://www.glidingbulgaria.com/en/schools-centers/) {.bg} 
    - {.cy}
+
+2️⃣ [PPL](https://easa.fi) {.eu} 🧊
+   - [IFA](https://ifa-training.com/flight-school/) {.pt}
+   - [7air](https://www.sevenair.com/flight-instructor-course) {.pt} *NB! The financier could be [**novobanco**](https://www.novobanco.pt/particulares/credito/credito-pessoal-formacao-estudos).* 
+
+
 
 3️⃣ ATPL Theory + Time Building {.eu} *NB! [0toATPL Under 50k](https://pannonair.hu/zero-to-airline-pilot-program/).* 🧊
    - [ATPL Theory] ([Fly EPT Spain](https://www.flyeptspain.com/atpl-theory-course-online); [Easy-Pilot](https://www.easy-pilot.com/atpl-theory)) {.eu}
