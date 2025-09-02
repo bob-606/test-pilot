@@ -22,6 +22,8 @@
       ***+ Hands-on experience potentially in Cyprus (3~5y).***
 
 1️⃣ [FI(S)](https://www.kuusikulennuklubi.eu) {.ee} 🚧
+   - Theory (SPL)
+   - Practicum (SPL)
    - 
 
 2️⃣ [PPL](https://easa.fi) {.eu} 🧊
