@@ -21,11 +21,8 @@
 
       ***+ Hands-on experience potentially in Cyprus (3~5y).***
 
-1️⃣ [FI(S)](https://www.purilend.ee/) {.eu} 🚧
-   - [NAA](https://naa.ee/){.ee}
-   - [ASKÖ](https://www.flugsport-wien.at/gb/segelflug/segelflugausbildung/) {.at} *NB! (das) Deutsche proficiency (prerequisite).* 
-   - [Bulgaria Gliding](http://www.glidingbulgaria.com/en/schools-centers/) {.bg} 
-   - {.cy}
+1️⃣ [FI(S)](https://www.kuusikulennuklubi.eu) {.ee} 🚧
+   - 
 
 2️⃣ [PPL](https://easa.fi) {.eu} 🧊
    - [IFA](https://ifa-training.com/flight-school/) {.pt}
