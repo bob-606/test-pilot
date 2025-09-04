@@ -23,7 +23,7 @@
 
 1️⃣ [FI(S)](https://www.kuusikulennuklubi.eu) {.ee} 🚧
    - Theory (SPL): 100 hours covering 9 subjects
-   - Practicum (SPL): 
+   - Practicum (SPL): 15 flight hours + 1 hour skill test
    - 
 
 2️⃣ [PPL](https://easa.fi) {.eu} 🧊
