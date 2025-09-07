@@ -22,10 +22,10 @@
       ***+ Hands-on experience potentially in Cyprus (3~5y).***
 
 1️⃣ [FI(S)](https://www.kuusikulennuklubi.eu) {.ee} 🚧
-   - Theory (SPL): 100 hours covering 9 subjects
+   - Theory (SPL): 100h covering 9 subjects
    - Practicum (SPL): 15 flight hours + 1 hour skill test
-   - Theory for FI
-   - Practicum for FI
+   - Theory for FI: 55h (
+   - Practicum for FI: 
 
 2️⃣ [PPL](https://easa.fi) {.eu} 🧊
    - [IFA](https://ifa-training.com/flight-school/) {.pt}
