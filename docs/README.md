@@ -24,7 +24,7 @@
 1️⃣ [FI(S)](https://www.kuusikulennuklubi.eu) {.ee} 🚧
    - Theory (SPL): 100h covering 9 subjects
    - Practicum (SPL): 15 flight hours + 1 hour skill test
-   - Theory for FI: 55h (
+   - Theory for FI: 55h
    - Practicum for FI: 100h of flight time + 200 launches as PIC
 
 2️⃣ [PPL](https://easa.fi) {.eu} 🧊
