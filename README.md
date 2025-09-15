@@ -65,7 +65,3 @@
 
 ---
 
-### Versioning
-
-* **Assumptions set by you:** Training & exams in **Portugal/Cyprus**; Part‑66 application via **Estonia**.
-* This doc merges your latest notes into a single two‑path roadmap you can print or share.
