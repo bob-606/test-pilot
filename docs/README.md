@@ -14,7 +14,7 @@
    - 🔴 M10 (Aviation Legislation): Both
    - 🔴 M11B (Piston Aeroplane Aerodynamics, Structures & Systems): B1.2
    - 🔴 M12 (Helicopter Aeroplane Aerodynamics, Structures & Systems): B2 
-   - 🟡 M13 (Avionics Aircraft Structures & Systems): B2 ***!!Exam on FEB.2026***
+   - 🟡 M13 (Avionics Aircraft Structures & Systems): B2 ***!!Exam on 13.FEB.2026***
    - 🟡 M14 (Propulsion): B2 ***!!Exam on 11.NOV***
    - 🔴 M16 (Piston Engine): B1.2
    - 🔴 M17 (Propeller Systems): B1.2
