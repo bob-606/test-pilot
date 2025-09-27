@@ -7,12 +7,12 @@
    - 🟡 M3 (Electrical Fundamentals): Both ***!!Exam on xx.xxx.2026***
    - 🔴 M4 (Electronic Fundamentals): Both (B2は上級)
    - 🔴 M5 (Digital Techniques/Electronic Instrument Systems): Both
-   - 🔴 M6 (Materials & Hardware): Both
-   - 🔴 M7 (Maintenance Practices): Both
-   - 🔴 M8 (Basic Aerodynamics): Both
-   - 🔴 M9 (Human Factors): Both
-   - 🔴 M10 (Aviation Legislation): Both
-   - 🔴 M11B (Piston Aeroplane Aerodynamics, Structures & Systems): B1.2
+   - 🔴 M6 (Materials & Hardware): Both ***!!Exam on xx.MAY.2026***
+   - 🔴 M7 (Maintenance Practices): Both ***!!Exam on xx.MAY.2026***
+   - 🔴 M8 (Basic Aerodynamics): Both (.ee)
+   - 🔴 M9 (Human Factors): Both ***!!Exam on xx.MAY.2026***
+   - 🔴 M10 (Aviation Legislation): (.ee)
+   - 🔴 M11B (Piston Aeroplane Aerodynamics, Structures & Systems): B1.2 (.pt?)
    - 🔴 M12 (Helicopter Aeroplane Aerodynamics, Structures & Systems): B2 
    - 🟡 M13 (Avionics Aircraft Structures & Systems): B2 ***!!Exam on 13.FEB.2026***
    - 🟡 M14 (Propulsion): B2 ***!!Exam on 11.NOV.2025***
