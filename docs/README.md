@@ -2,7 +2,7 @@
 ## Faru kion vi volas || Faça o que queres || やりたいことをやれ
 
 0️⃣ [AMT/AME](https://www.traficom.fi/en/transport/aviation/aviation-professionals/aircraft-maintenance-licence-part-66) (B1+B2+C) {.eu} 🚧
-   - 🟡 M1 (Mathematics): Both ***!!Exam on xx.xxx.2026***
+   - 🟡 M1 (Mathematics): Both ***!!Exam on xx.xxx.2026*** (.ee)
    - 🟡 M2 (Physics): Both ***!!Exam on xx.xxx.2026***
    - 🟡 M3 (Electrical Fundamentals): Both ***!!Exam on xx.xxx.2026***
    - 🔴 M4 (Electronic Fundamentals): Both (B2は上級)
