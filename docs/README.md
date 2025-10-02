@@ -8,7 +8,7 @@
    - 🔴 M4 (Electronic Fundamentals): Both (B2は上級)
    - 🔴 M5 (Digital Techniques/Electronic Instrument Systems): Both
    - 🔴 M6 (Materials & Hardware): Both ***[.pt @ xx.MAY.2026]***
-   - 🔴 M7 (Maintenance Practices): Both 
+   - 🔴 M7 (Maintenance Practices): Both (.pt)
    - 🔴 M8 (Basic Aerodynamics): Both (.ee)
    - 🔴 M9 (Human Factors): Both 
    - 🔴 M10 (Aviation Legislation): (.ee)
