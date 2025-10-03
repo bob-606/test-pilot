@@ -1,6 +1,6 @@
 # Mechanic + Pilot: Full Roadmap
 
-*(Training & exams in **Portugal/Cyprus**; Part‑66 licence application via **Estonia**)*
+*(Training & exams in **PT/CY**; Part‑66 licence application via **EE**)*
 
 ---
 
