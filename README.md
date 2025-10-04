@@ -40,7 +40,7 @@
 
 ### Timing & notes
 
-* Practical experience is the long pole; **expect \~3–5 years** end‑to‑end depending on hiring and base‑maintenance access.
+* Practical experience is the long pole; **expect ~3–5 years** end‑to‑end depending on hiring and base‑maintenance access.
 * Keep a contemporaneous **task‑based logbook** to avoid re‑work at application time.
 * Consider Portuguese ATOs/centres for convenience; keep all documentation bilingual where possible.
 
