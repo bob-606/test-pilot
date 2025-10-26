@@ -1,10 +1,10 @@
 # The Leading Show for General Aviation (April 09 - 12, 2025)
 
-## [RECHARGE BEFORE FLIGHT](https://vaeridion.com/)
-## [AdvanTec GmbH](https://advantecgmbh.de/)
-## [VOCUS](https://vocus3.de/)
-## [AK-X](https://akaflieg-karlsruhe.de/en/)
-## [RISEN](https://www.portoaviationgroup.com/)
+### [RECHARGE BEFORE FLIGHT](https://vaeridion.com/)
+### [AdvanTec GmbH](https://advantecgmbh.de/)
+### [VOCUS](https://vocus3.de/)
+### [AK-X](https://akaflieg-karlsruhe.de/en/)
+### [RISEN](https://www.portoaviationgroup.com/)
 ---
 
 # Indra Avitech: A Comprehensive Analysis of a Leading Aviation Technology Provider
