@@ -27,10 +27,11 @@
    - Theory for FI: 55h
    - Practicum for FI: 100h of flight time + 200 launches as PIC
 
-2️⃣ [PPL](https://easa.fi) {.eu} 🧊
+2️⃣ [PPL](https://easa.fi) {.eu} 🚧
+   - 🟡 Theory (PPL): 9 subjects ***[.ee 2025/2026]***
+   - 🔴 Practicum (.hu}
    - [IFA](https://ifa-training.com/flight-school/) {.pt}
    - [7air](https://www.sevenair.com/flight-instructor-course) {.pt} *NB! The financier could be [**novobanco**](https://www.novobanco.pt/particulares/credito/credito-pessoal-formacao-estudos).* 
-
 
 
 3️⃣ ATPL Theory + Time Building {.eu} *NB! [0toATPL Under 50k](https://pannonair.hu/zero-to-airline-pilot-program/).* 🧊
