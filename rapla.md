@@ -1,1 +1,1 @@
-SPL and FI(S) in Raplamaa
+SPL and FI(S) in Raplamaa (+ property purchase)
