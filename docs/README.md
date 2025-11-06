@@ -33,7 +33,6 @@
    - [IFA](https://ifa-training.com/flight-school/) {.pt}
    - [7air](https://www.sevenair.com/flight-instructor-course) {.pt} *NB! The financier could be [**novobanco**](https://www.novobanco.pt/particulares/credito/credito-pessoal-formacao-estudos).* 
 
-
 3️⃣ ATPL Theory + Time Building {.eu} *NB! [0toATPL Under 50k](https://pannonair.hu/zero-to-airline-pilot-program/).* 🧊
    - [ATPL Theory] ([Fly EPT Spain](https://www.flyeptspain.com/atpl-theory-course-online); [Easy-Pilot](https://www.easy-pilot.com/atpl-theory)) {.eu}
    - [Time Building] ([Fly EPT Spain](https://www.flyeptspain.com/); [Flying Academy](https://portugal.flyingacademy.com/timebuilding-in-portimao/)) {.eu} 
