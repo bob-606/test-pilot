@@ -1,6 +1,6 @@
 # Mechanic + Pilot: Full Roadmap
 
-*(Training & exams in **PT/CY**; Part‑66 licence application via **EE**)*
+*(Training & exams in **EU**; Part‑66 licence application via **EE**)*
 
 ---
 
