@@ -29,7 +29,7 @@
 
 2️⃣ [PPL](https://easa.fi) {.eu} 🚧
    - 🟡 Theory (PPL): 9 subjects ***[.ee 2025/2026]***
-   - 🔴 Practicum (.hu}
+   - 🟡 Practicum (.es + .}
    - [IFA](https://ifa-training.com/flight-school/) {.pt}
    - [7air](https://www.sevenair.com/flight-instructor-course) {.pt} *NB! The financier could be [**novobanco**](https://www.novobanco.pt/particulares/credito/credito-pessoal-formacao-estudos).* 
 
