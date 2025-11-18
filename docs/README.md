@@ -19,7 +19,7 @@
    - 🔴 M16 (Piston Engine): B1.2
    - 🔴 M17 (Propeller Systems): B1.2
 
-      ***+ Hands-on experience potentially in Cyprus (3~5y).***
+      ***+ Hands-on experience required (3~5y).***
 
 1️⃣ [FI(S)](https://www.kuusikulennuklubi.eu) {.ee} 🚧
    - 🟡 Theory (SPL): 100h covering 9 subjects ***[.ee 2025/2026]***
