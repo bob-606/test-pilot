@@ -1,3 +1,5 @@
+THIS IS NOT FEASIBLE
+
 # Pathway: Portugal Experience → Finnish Part-66 Licence  
 **Feasibility & Requirements (AY2025 Version)**  
 
