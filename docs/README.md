@@ -25,8 +25,8 @@
    - 🟡 Theory (SPL): 100h covering 9 subjects ***[.ee 2025/2026]***
       - [NAA](https://naa.ee/en/)
    - 🔴 Practicum (SPL): 15h flight + 1 hour skill test ***[.ee 2026/2027]***
-   - Theory for FI: 55h
-   - Practicum for FI: 100h of flight time + 200 launches as PIC
+      - Theory for FI: 55h
+      - Practicum for FI: 100h of flight time + 200 launches as PIC
 
 2️⃣ [PPL](https://easa.fi) {.eu} 🚧
    - 🟡 Theory (PPL): 9 subjects ***[.ee 2025/2026]***
