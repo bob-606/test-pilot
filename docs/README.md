@@ -29,15 +29,17 @@
 
 2️⃣ [PPL](https://easa.fi) {.eu} 🚧
    - 🟡 Theory (PPL): 9 subjects ***[.ee 2025/2026]***
-   - 🟡 Practicum (.es + .}
-   - [IFA](https://ifa-training.com/flight-school/) {.pt}
-   - [7air](https://www.sevenair.com/flight-instructor-course) {.pt} *NB! The financier could be [**novobanco**](https://www.novobanco.pt/particulares/credito/credito-pessoal-formacao-estudos).* 
+   - 🟡 Practicum (.es + ...}
+   - [Fly EPT Spain](https://www.flyeptspain.com/atpl-theory-course-online)
+   - ...
 
 3️⃣ ATPL Theory + Time Building {.eu} *NB! [0toATPL Under 50k](https://pannonair.hu/zero-to-airline-pilot-program/).* 🧊
    - [ATPL Theory] ([Fly EPT Spain](https://www.flyeptspain.com/atpl-theory-course-online); [Easy-Pilot](https://www.easy-pilot.com/atpl-theory)) {.eu}
    - [Time Building] ([Fly EPT Spain](https://www.flyeptspain.com/); [Flying Academy](https://portugal.flyingacademy.com/timebuilding-in-portimao/)) {.eu} 
      
 4️⃣ [FI (SEVENAIR Academy)](https://www.sevenair.com/flight-instructor-course) {.pt} *NB! at least 200H flight totals aircraft (150H as PIC).* 🧊 \
+   - [IFA](https://ifa-training.com/flight-school/) {.pt}
+   - [7air](https://www.sevenair.com/flight-instructor-course) {.pt} *NB! The financier could be [**novobanco**](https://www.novobanco.pt/particulares/credito/credito-pessoal-formacao-estudos).* 
 5️⃣ [CPL (Fly EPT Spain)](https://www.flyeptspain.com/atpl-theory-course-online) {.es} 🧊 \
 6️⃣ [Luxair](https://www.luxair.lu/pt) / [Cargolux](https://www.cargolux.com/) {.lu} 🧊 \
 7️⃣ [ATPL(H) (Hillsboro Aero)](https://flyhaa.com/helicopter/) {.or} 🧊 \
