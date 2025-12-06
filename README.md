@@ -1,4 +1,4 @@
-# Mechanic/Engineer+ Pilot: Full Roadmap 
+# Mechanic/Engineer + Pilot: Full Roadmap 
 
 *(Training & exams in **EU**; Part‑66 licence application via **EE**)*
 
