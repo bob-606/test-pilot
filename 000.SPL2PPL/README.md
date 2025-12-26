@@ -1,5 +1,3 @@
-The "Estonian Theory + Hungarian Flying" strategy is the most cost-effective and logical path.
-
 ### **The Master Plan**
 
 | Phase | Location | Activity | Est. Cost |
