@@ -1,4 +1,4 @@
-### **The Master Plan**
+## **The Master Plan**
 
 | Phase | Location | Activity | Est. Cost |
 | :--- | :--- | :--- | :--- |
