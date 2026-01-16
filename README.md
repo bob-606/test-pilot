@@ -11,7 +11,7 @@
 
 ---
 
-## A) EASA Part‑66 Category C — concise plan
+## [1] EASA Part‑66 Category C — concise plan
 
 ### Core requirements (what you must show)
 
@@ -44,7 +44,7 @@
 
 ---
 
-## B) Pilot track — compact plan (PT/CY focus)
+## [2] Pilot track — compact plan (PT/CY focus)
 
 1. **PPL** at an ATO in **Portugal/Cyprus**.
 2. **ATPL theory (distance)** alongside flying.
@@ -56,7 +56,7 @@
 
 ---
 
-## C) Long‑term: Flight Test Engineer / Test Pilot
+## [3] Long‑term: Flight Test Engineer / Test Pilot
 
 * **Typical entry:** **CPL/ATPL**, **\~1,000–1,500+ hours**, graduation from an accredited test‑pilot school (e.g., ETPS/NTPS/EPNER).
 * **Bridge role:** **Flight Test Engineer (FTE)** leverages your engineering + Part‑66 background; consider dedicated FTE/test programmes after building flight time.
