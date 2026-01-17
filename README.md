@@ -62,4 +62,3 @@
 * **Bridge role:** **Flight Test Engineer (FTE)** leverages your engineering + Part‑66 background; consider dedicated FTE/test programmes after building flight time.
 
 ---
-
