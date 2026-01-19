@@ -22,7 +22,7 @@
       ***+ Hands-on experience required (3~5y).***
 
 1️⃣ [FI(S)](https://www.kuusikulennuklubi.eu) {.ee} 🚧
-   - Theory (SPL): 100h covering 9 subjects ***[.ee 2025/2026]***
+   - Theory (SPL): 100h (9 subjects) ***[.ee 2025/2026]***
       - 🟡 **Air Law:** SPL ***[.ee @ 30.JAN.2026]***
       - 🟡 **Aircraft General Knowledge:** SPL ***[.ee @ 30.JAN.2026]***
       - 🟡 **Principles of Flight:** SPL ***[.ee @ 03.FEB.2026]***
