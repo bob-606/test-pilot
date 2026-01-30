@@ -23,15 +23,15 @@
 
 1️⃣ [FI(S)](https://www.kuusikulennuklubi.eu) {.ee} 🚧
    - Theory (SPL): 100h (9 subjects) ***[.ee 2025/2026]***
-      - 🟡 **Air Law:** SPL ***[.ee @ 30.JAN.2026]***
-      - 🟡 **Aircraft General Knowledge:** SPL ***[.ee @ 30.JAN.2026]***
-      - 🟡 **Principles of Flight:** SPL ***[.ee @ 03.FEB.2026]***
-      - 🟡 **Communications:** SPL ***[.ee @ 03.FEB.2026]***
-      - 🔴 **Human Performance:** SPL ***[.ee @ 13.FEB.2026]***
-      - 🟡 **Meteorology:** SPL ***[.ee @ 13.FEB.2026]***
-      - 🔴 **Navigation:** SPL ***[.ee @ 27.FEB.2026]***
-      - 🔴 **Operational Procedures:** SPL ***[.ee @ 27.FEB.2026]***
-      - 🔴 **Flight Performance & Planning:** SPL ***[.ee @ 16.MAR.2026]***
+      - 🟡 **Air Law:** SPL ***[.ee @ 05.FEB.2026]***
+      - 🟡 **Aircraft General Knowledge:** SPL ***[.ee @ 05.FEB.2026]***
+      - 🟡 **Principles of Flight:** SPL ***[.ee @ 05.FEB.2026]***
+      - 🟡 **Communications:** SPL ***[.ee @ xx.FEB.2026]***
+      - 🔴 **Human Performance:** SPL ***[.ee @ xx.FEB.2026]***
+      - 🟡 **Meteorology:** SPL ***[.ee @ xx.FEB.2026]***
+      - 🔴 **Navigation:** SPL ***[.ee @ xx.MAR.2026]***
+      - 🔴 **Operational Procedures:** SPL ***[.ee @ xx.MAR.2026]***
+      - 🔴 **Flight Performance & Planning:** SPL ***[.ee @ xx.MAR.2026]***
    - Practicum (SPL): 15h flight + 1 hour skill test ***[.ee 2026/2027]***
       - Theory for FI: 55h
       - Practicum for FI: 100h of flight time + 200 launches as PIC
