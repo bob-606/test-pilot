@@ -1,10 +1,25 @@
 # /ˈpɑːθˌfʌɪndə/
 ## Faru kion vi volas || Faça o que queres || やりたいことをやれ
 
-0️⃣ [AMT/AME](https://www.traficom.fi/en/transport/aviation/aviation-professionals/aircraft-maintenance-licence-part-66) (B1+B2+C) {.eu} 🚧
-   - 🟡 M1 (Mathematics): Both ***[.ee @ xx.xxx.2026]***
-   - 🟡 M2 (Physics): Both ***[.ee @ xx.xxx.2026]***
-   - 🟡 M3 (Electrical Fundamentals): Both ***[.ee @ xx.xxx.2026]***
+0️⃣ [FI(S)](https://www.kuusikulennuklubi.eu) {.ee} 🚧
+   - Theory (SPL): 100h (9 subjects) ***[.ee 2025/2026]***
+      - 🟢 **Air Law:** SPL ***[.ee @ 05.FEB.2026]***
+      - 🟢 **Aircraft General Knowledge:** SPL ***[.ee @ 05.FEB.2026]***
+      - 🟢 **Principles of Flight:** SPL ***[.ee @ 05.FEB.2026]***
+      - 🟡 **Communications:** SPL ***[.ee @ xx.FEB.2026]***
+      - 🟡 **Human Performance:** SPL ***[.ee @ xx.FEB.2026]***
+      - 🟡 **Meteorology:** SPL ***[.ee @ xx.FEB.2026]***
+      - 🔴 **Navigation:** SPL ***[.ee @ xx.MAR.2026]***
+      - 🔴 **Operational Procedures:** SPL ***[.ee @ xx.MAR.2026]***
+      - 🔴 **Flight Performance & Planning:** SPL ***[.ee @ xx.MAR.2026]***
+   - Practicum (SPL): 15h flight + 1 hour skill test ***[.ee 2026/2027]***
+      - Theory for FI: 55h
+      - Practicum for FI: 100h of flight time + 200 launches as PIC
+
+1️⃣ [AMT/AME](https://www.traficom.fi/en/transport/aviation/aviation-professionals/aircraft-maintenance-licence-part-66) (B1+B2+C) {.eu} 🚧
+   - 🔴 M1 (Mathematics): Both ***[.ee @ xx.xxx.2026]***
+   - 🔴 M2 (Physics): Both ***[.ee @ xx.xxx.2026]***
+   - 🔴 M3 (Electrical Fundamentals): Both ***[.ee @ xx.xxx.2026]***
    - 🔴 M4 (Electronic Fundamentals): Both (B2は上級)
    - 🔴 M5 (Digital Techniques/Electronic Instrument Systems): Both
    - 🔴 M6 (Materials & Hardware): Both ***[.pt @ xx.MAY.2026]***
@@ -20,21 +35,6 @@
    - 🔴 M17 (Propeller Systems): B1.2
 
       ***+ Hands-on experience required (3~5y).***
-
-1️⃣ [FI(S)](https://www.kuusikulennuklubi.eu) {.ee} 🚧
-   - Theory (SPL): 100h (9 subjects) ***[.ee 2025/2026]***
-      - 🟡 **Air Law:** SPL ***[.ee @ 05.FEB.2026]***
-      - 🟡 **Aircraft General Knowledge:** SPL ***[.ee @ 05.FEB.2026]***
-      - 🟡 **Principles of Flight:** SPL ***[.ee @ 05.FEB.2026]***
-      - 🟡 **Communications:** SPL ***[.ee @ xx.FEB.2026]***
-      - 🔴 **Human Performance:** SPL ***[.ee @ xx.FEB.2026]***
-      - 🟡 **Meteorology:** SPL ***[.ee @ xx.FEB.2026]***
-      - 🔴 **Navigation:** SPL ***[.ee @ xx.MAR.2026]***
-      - 🔴 **Operational Procedures:** SPL ***[.ee @ xx.MAR.2026]***
-      - 🔴 **Flight Performance & Planning:** SPL ***[.ee @ xx.MAR.2026]***
-   - Practicum (SPL): 15h flight + 1 hour skill test ***[.ee 2026/2027]***
-      - Theory for FI: 55h
-      - Practicum for FI: 100h of flight time + 200 launches as PIC
 
 2️⃣ [PPL](https://easa.fi) {.eu} 🚧
    - Theory (PPL): 9 subjects ***[.ee 2025/2026]***
